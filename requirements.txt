@@ -171,7 +171,7 @@ plotly==5.3.1
     # via poliastro
 pluggy==1.0.0
     # via pytest
-poliastro==0.15.2
+poliastro==0.16b1
     # via -r requirements.in
 prometheus-client==0.11.0
     # via notebook

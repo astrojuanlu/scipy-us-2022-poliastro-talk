@@ -1,4 +1,4 @@
-poliastro~=0.15.2
+poliastro~=0.16b1
 notebook
 ipywidgets>=7.6
 rise
