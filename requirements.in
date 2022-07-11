@@ -1,7 +1,0 @@
-poliastro~=0.17.0
-notebook
-ipywidgets>=7.6
-rise
-
-hypothesis
-pytest

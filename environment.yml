@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - poliastro=0.17.0
+  - notebook
+  - ipywidgets>=7.6
+  - rise
+  - hypothesis
+  - pytest
+  - ipytest
